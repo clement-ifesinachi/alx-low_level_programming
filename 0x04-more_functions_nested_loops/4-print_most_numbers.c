@@ -4,7 +4,7 @@
  *
  * Return: returns nothing
  */
-void print_most_numbers_void(void)
+void print_most_numbers(void)
 {
 int number;
 for (number = 48; number < 58; number++)
