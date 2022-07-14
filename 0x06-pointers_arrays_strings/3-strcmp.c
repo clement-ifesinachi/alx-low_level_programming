@@ -1,5 +1,5 @@
-#include "maian.h"
-
+#include "main.h"
+#include <string.h>
 /**
  * _strcmp -> for comparing purpose
  * @s1: parameter1
@@ -11,5 +11,5 @@ int _strcmp(char *s1, char *s2)
 	int result;
 
 	result = strcmp(s2, s2);
-	return (result);
+	return (dest);
 }
